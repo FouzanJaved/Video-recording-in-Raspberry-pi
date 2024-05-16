@@ -1,0 +1,1 @@
+This code helps to capture video using raspberry pi integrated cam and then record the captured video.
